@@ -1,0 +1,24 @@
+.card {
+    width: 100%;
+    margin: auto;
+}
+
+.card-text {
+    font-size: 15pt;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fs-7{
+    font-size: 0.9rem;
+}
+
+.text-green{
+    color: green;
+}
+
+.foot{
+    width: 33%;
+    margin: auto;
+    padding: 1rem;
+}
